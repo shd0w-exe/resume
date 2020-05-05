@@ -1,0 +1,146 @@
+body {
+  position: relative;
+  text-align: center;
+  font-family: cursive;
+  margin: 0;
+}
+
+hr {
+  border-style: dotted;
+  border-bottom: none;
+  width: 8%;
+  border-width: 8px;
+  margin: 50px auto;
+  color: #05dfd7;
+}
+
+h1 {
+  /*color: #66bfbf;*/
+  color: #05dfd7;
+  margin: 0;
+  padding-top: 50px;
+  font-size: 5rem;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.625rem;
+}
+
+h3 {
+  color: #11999e;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 16%;
+  top: 50px;
+  width: 14%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  width: 14%;
+  top: 6.25%;
+  left: 2%;
+}
+
+.top-container {
+  background-color: #beebe9;
+  padding-top: 7%;
+}
+/*.middle-container{
+
+ background-color: #d4f8e8;
+}*/
+
+.pp {
+  width: 30%;
+}
+
+.land {
+  width: 60%;
+  padding-bottom: 0;
+}
+.hi{
+  margin-top: 0;
+  font-size: 4rem;
+}
+.info{
+  margin:0 35%;
+ line-height: 2;
+  width: 30%;
+  font-size: 1.5rem;
+}
+p{
+  color: #545454;
+}
+.right{
+  float: right;
+  width: 35%;
+  margin-left: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5rem;
+}
+.animation{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.line{
+  line-height: 2;
+  font-size: 1.5rem;
+}
+.lst{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #11999e;
+font-size: 1.5rem;
+}
+
+.bottom-container{
+  background-color: #beebe9;
+  padding: 15px;
+}
+.button {
+  background-color: #66bfbf;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.7;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.button:hover {opacity: 1
+
+}
+.cc{
+  margin-left: 0;
+  color: black;
+  text-align: left;
+  margin-bottom: 0;
+}
+.logo{
+  text-align: left;
+  width: 40px;
+  margin: 2px;
+}
+.logo:hover{
+  transition: 0.4s;
+  width: 50px;
+  margin: -2px;
+}
