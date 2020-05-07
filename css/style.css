@@ -48,6 +48,16 @@ h3 {
   top: 6.25%;
   left: 2%;
 }
+.top-cloud:hover{
+  width:15rem;
+  transition-timing-function: ease;
+  transition: 1s;
+}
+.bottom-cloud:hover{
+  width:15rem;
+  transition-timing-function: ease;
+  transition: 1s;
+}
 
 .top-container {
   background-color: #beebe9;
