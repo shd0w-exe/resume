@@ -144,13 +144,19 @@ font-size: 1.5rem;
   text-align: left;
   margin-bottom: 0;
 }
-.logo{
-  text-align: left;
-  width: 40px;
-  margin: 2px;
+.fi{
+  margin:1%;
 }
-.logo:hover{
-  transition: 0.4s;
-  width: 50px;
-  margin: -2px;
+.fb:hover{
+  color:#3b5998;
+}
+.tw:hover{
+ color:#00acee;
+}
+.ma:hover{
+ color: #D44638;
+}
+
+.nn:hover{
+color:#3f729b;
 }
